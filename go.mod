@@ -1,4 +1,4 @@
-module Forge-Admin-core
+module github.com/zhang-228/Forge-Admin-core
 
 go 1.21
 
